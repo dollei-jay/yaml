@@ -1,0 +1,9 @@
+# 添加直连规则示例
+
++rules:
+  - "DOMAIN-SUFFIX,*.sdic.com.cn,DIRECT"
+  - "DOMAIN-SUFFIX,*.dollei.top,DIRECT"
+  - "DOMAIN-SUFFIX,*.sdicin.com,DIRECT"
+  - "DOMAIN-SUFFIX,*.ceedi.cn,DIRECT" 
+  - "DOMAIN-SUFFIX,*.dollei.synology.me,DIRECT"
+  - "DOMAIN-SUFFIX,*.ss.cods.org.cn,DIRECT"
